@@ -1,6 +1,6 @@
-# InsightPop - Technical Architecture & Engineering Excellence
+# InsightPop - Technical Architecture & Engineering
 
-This document outlines the architectural decisions and engineering standards that power **InsightPop (IP)**. The system is designed for high availability, scalability, and maintainability, following modern software engineering principles.
+This document outlines the architectural decisions and engineering standards that power **InsightPop**. The system is designed for high availability, scalability, and maintainability, following modern software engineering principles.
 
 ## 🏗️ Backend Architecture: Clean & Decoupled
 

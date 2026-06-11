@@ -1,5 +1,5 @@
-# Business Plan: InsightPop (IP)
-**Share and relax. The AI organizes and reminds you.**
+# Business Plan: InsightPop
+**Share and relax.**
 
 ## 1. Executive Summary
 **InsightPop** is an active intelligence assistant that transforms the chaos of unstructured information (WhatsApp, emails, screenshots, photos, PDFs, and audio) into organized data and future actions. It uses **Adaptive Intelligence** during onboarding to understand each user's reality and **Predictive Intelligence** to suggest the next step before the user even thinks of it.
@@ -43,4 +43,4 @@ A "Share-First" ecosystem where data entry is automatic and intuitive:
 *   **Phase 4 (In Development):** AI Feedback Loop, Recurring Notifications, Advanced Semantic Search, and External Calendar Integration.
 
 ---
-> To access the full document with financial and market analysis, please refer to the [**BusinessPlan.pdf**](BusinessPlan.pdf) file in this repository.
+> To access the full document with financial and market analysis, please refer to the [**Business_Plan_InsightPop.pdf**](Business_Plan_InsightPop.pdf) file in this repository.

@@ -1,5 +1,5 @@
-# Plano de Negócios: InsightPop (IP)
-**Compartilhe e relaxe. A IA organiza e te lembra.**
+# Plano de Negócios: InsightPop
+**Share and Relax.**
 
 ## 1. Sumário Executivo
 O **InsightPop** é um assistente de inteligência ativa que transforma o caos de informações desestruturadas (WhatsApp, e-mails, prints, fotos, PDFs e áudios) em dados organizados e ações futuras. Utiliza **Inteligência Adaptativa** no onboarding para entender a realidade de cada usuário e **Inteligência Preditiva** para sugerir o próximo passo antes mesmo do usuário pensar nele.
@@ -43,4 +43,4 @@ Um ecossistema "Share-First" onde a entrada de dados é automática e intuitiva:
 *   **Fase 4 (Em Desenvolvimento):** Feedback Loop de IA, Notificações Recorrentes, Busca Semântica Avançada e Integração com Agendas Externas.
 
 ---
-> Para acessar o documento completo com análises financeiras e de mercado, consulte o arquivo [**BusinessPlan.pdf**](BusinessPlan.pdf) neste repositório.
+> Para acessar o documento completo com análises financeiras e de mercado, consulte o arquivo [**Plano_de_negocios_InsightPop.pdf**](Plano_de_Negocios_InsightPop.pdf) neste repositório.

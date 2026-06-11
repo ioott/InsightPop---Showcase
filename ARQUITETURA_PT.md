@@ -1,6 +1,6 @@
-# InsightPop - Arquitetura Técnica e Excelência em Engenharia
+# InsightPop - Arquitetura Técnica e Engenharia
 
-Este documento detalha as decisões arquiteturais e os padrões de engenharia que sustentam o **InsightPop (IP)**. O sistema foi projetado para alta disponibilidade, escalabilidade e manutenibilidade, seguindo princípios modernos de engenharia de software.
+Este documento detalha as decisões arquiteturais e os padrões de engenharia que sustentam o **InsightPop**. O sistema foi projetado para alta disponibilidade, escalabilidade e manutenibilidade, seguindo princípios modernos de engenharia de software.
 
 ## 🏗️ Arquitetura Backend: Limpa e Desacoplada
 

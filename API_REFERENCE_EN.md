@@ -6,7 +6,7 @@ This document provides a public overview of the InsightPop API endpoints. The AP
 Most endpoints require **JWT Authentication**. Include the header `Authorization: Bearer <your_token>`.
 
 ## 🧠 AI Processing (`/process`)
-The core engine of IP. It receives unstructured data and returns structured JSON.
+The core engine of InsightPop. It receives unstructured data and returns structured JSON.
 *   **POST /process**: Supports `.txt`, `.zip` (WhatsApp), `.pdf`, and Images (`.png`, `.jpg`).
 *   **Output Example:**
     ```json

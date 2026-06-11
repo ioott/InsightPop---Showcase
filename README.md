@@ -32,8 +32,8 @@ O projeto foi arquitetado como um motor agnóstico **capaz de se adaptar a qualq
 *   [**Referência da API (API_REFERENCE_PT.md)**](API_REFERENCE_PT.md)
 
 ### 📲 Download e Negócios
-*   [**Baixar o App (APK v0.6.0)**](InsightPop-v0.6.0.apk)
-*   [**Plano de Negócios (Resumo)**](PLANO_DE_NEGOCIOS_PT.md) | [**Arquivo PDF Completo**](Plano_de_Negocios_InsightPop.pdf)
+*   [**Baixar o App (APK v0.6.0)**](https://github.com/ioott/InsightPop---Showcase/releases/latest)
+*   [**Plano de Negócios (Resumo)**](PLANO_DE_NEGOCIOS_PT.md) | [**Arquivo PDF Completo**](BusinessPlan.pdf)
 
 ### 🔒 Sobre o Código Fonte
 O código-fonte do InsightPop é um projeto **proprietário**. Se você deseja conhecer a arquitetura ou ver o código em detalhes, **entre em contato comigo**. Terei o maior prazer em realizar uma demonstração técnica privada.
@@ -61,8 +61,8 @@ The project was architected as an agnostic engine **capable of adapting to any m
 *   [**API Reference (API_REFERENCE_EN.md)**](API_REFERENCE_EN.md)
 
 ### 📲 Download & Business
-*   [**Download the App (APK v0.6.0)**](InsightPop-v0.6.0.apk)
-*   [**Business Plan (Summary)**](BUSINESS_PLAN_EN.md) | [**Full PDF File**](Business_Plan_InsightPop.pdf)
+*   [**Download the App (APK v0.6.0)**](https://github.com/ioott/InsightPop---Showcase/releases/latest)
+*   [**Business Plan (Summary)**](BUSINESS_PLAN_EN.md) | [**Full PDF File**](BusinessPlan.pdf)
 
 ### 🔒 About the Source Code
 The InsightPop source code is a **proprietary** project. If wish to see the code in detail, **please contact me**. I will be happy to schedule a private technical demonstration.

@@ -6,7 +6,7 @@ Este documento fornece uma visão geral pública dos endpoints da API do Insight
 A maioria dos endpoints requer **Autenticação JWT**. Inclua o cabeçalho `Authorization: Bearer <seu_token>`.
 
 ## 🧠 Processamento de IA (`/process`)
-O motor principal do IP. Recebe dados desestruturados e retorna JSON estruturado.
+O motor principal do InsightPop. Recebe dados desestruturados e retorna JSON estruturado.
 *   **POST /process**: Suporta `.txt`, `.zip` (WhatsApp), `.pdf`, e Imagens (`.png`, `.jpg`).
 *   **Exemplo de Saída:**
     ```json
