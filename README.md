@@ -33,7 +33,7 @@ O projeto foi arquitetado como um motor agnóstico **capaz de se adaptar a qualq
 
 ### 📲 Download e Negócios
 *   [**Baixar o App (APK v0.6.0)**](https://github.com/ioott/InsightPop---Showcase/releases/latest)
-*   [**Plano de Negócios (Resumo)**](PLANO_DE_NEGOCIOS_PT.md) | [**Arquivo PDF Completo**](BusinessPlan.pdf)
+*   [**Plano de Negócios (Resumo)**](PLANO_DE_NEGOCIOS_PT.md) | [**Arquivo PDF Completo**](Plano_de_Negocios_InsightPop.pdf)
 
 ### 🔒 Sobre o Código Fonte
 O código-fonte do InsightPop é um projeto **proprietário**. Se você deseja conhecer a arquitetura ou ver o código em detalhes, **entre em contato comigo**. Terei o maior prazer em realizar uma demonstração técnica privada.
@@ -54,7 +54,7 @@ The project was architected as an agnostic engine **capable of adapting to any m
 *   [**AI Onboarding**](https://youtu.be/FiS0hjnu2zA)
 *   [**Data Extraction and Insights with AI**](https://youtu.be/hGamyNTAwHM)
 *   [**Figma Interactive Prototype**](https://www.figma.com/proto/ZcaYa7dNnvFR8m4BLhH2Ap/InsightPop?node-id=3-46&t=J6buMOET2WcRxVAS-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A46)
-*(Note: Permission is required to view the Figma.)*
+*(Note: Permission is required to view the Figma, because public sharing is not possible in the free version.)*
 
 ### 🛠️ Engineering
 *   [**Architecture & Clean Code (ARCHITECTURE_EN.md)**](ARCHITECTURE_EN.md)
@@ -62,7 +62,7 @@ The project was architected as an agnostic engine **capable of adapting to any m
 
 ### 📲 Download & Business
 *   [**Download the App (APK v0.6.0)**](https://github.com/ioott/InsightPop---Showcase/releases/latest)
-*   [**Business Plan (Summary)**](BUSINESS_PLAN_EN.md) | [**Full PDF File**](BusinessPlan.pdf)
+*   [**Business Plan (Summary)**](BUSINESS_PLAN_EN.md) | [**Full PDF File**](Business_Plan_InsightPop.pdf)
 
 ### 🔒 About the Source Code
 The InsightPop source code is a **proprietary** project. If wish to see the code in detail, **please contact me**. I will be happy to schedule a private technical demonstration.
